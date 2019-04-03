@@ -1,2 +1,1 @@
-# terraform_labs
-This stuff: https://azurecitadel.com/automation/terraform
+Lab files for this thing: https://aka.ms/citadel/terraform
